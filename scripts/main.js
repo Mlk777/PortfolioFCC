@@ -10,6 +10,7 @@ $(window).scroll(function () {
 });
 
 $('#backToTop').click(function () {
+  console.log("clicked");
   $('html').animate({
     scrollTop: 0
   }, 500);
