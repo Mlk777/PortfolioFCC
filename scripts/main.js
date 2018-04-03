@@ -2,8 +2,7 @@ $(window).scroll(function () {
   if ($(this).scrollTop() > 20) {
     $('#navbar').addClass('disappear');
     $('#backToTop').fadeIn(200);
-  }
-  else {
+  } else {
     $('#navbar').removeClass('disappear');
     $('#backToTop').fadeOut(200);
   }
