@@ -201,3 +201,7 @@ a:hover {
   color: black;
   text-decoration: none;
 }
+
+a:hover[title="FCC"] {
+  color: darkgreen; 
+}
