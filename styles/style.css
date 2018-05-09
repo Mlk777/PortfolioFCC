@@ -196,10 +196,8 @@ hr {
   justify-content: flex-end;
 }
 
-span > a:link, 
-a:visited, 
-a:hover,
-a:active {
+span > a
+a:hover {
   color: black;
   text-decoration: none;
 }
