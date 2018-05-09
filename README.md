@@ -23,3 +23,4 @@ __Skills :__
 * CSS (gradient, overlay, hover, positionning).
 * CSS grid.
 * Javascript (click function, animation).
+* HTML (section, viewport, anchor, img, form)
