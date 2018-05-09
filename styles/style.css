@@ -196,7 +196,7 @@ hr {
   justify-content: flex-end;
 }
 
-a:link, 
+span > a:link, 
 a:visited, 
 a:hover,
 a:active {
