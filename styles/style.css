@@ -99,7 +99,7 @@ h1 {
 }
 
 #projects div img {
-  /*object-fit: cover;*/
+  object-fit: contain;
   margin-bottom: 20px;
   width: 350px;
   height: 250px;
