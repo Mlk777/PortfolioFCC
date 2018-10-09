@@ -99,7 +99,7 @@ h1 {
 }
 
 #projects div img {
-  /*object-fit: cover;*/
+  object-fit: contain;
   margin-bottom: 20px;
   width: 350px;
   height: 250px;
@@ -194,4 +194,14 @@ hr {
 
 .navbar-expand-md .navbar-collapse {
   justify-content: flex-end;
+}
+
+span > a,
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover[title="FCC"] {
+  color: darkgreen; 
 }
